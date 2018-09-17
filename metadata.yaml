@@ -1,8 +1,11 @@
 _repo: u-Kong-que-dong-nan-fei-u-A-Pair-of-Peacocks-Southeast-Fly-_52275
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - Kong que dong nan fei
 - A Pair of Peacocks Southeast Fly
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52275#u-Kong-que-dong-nan-fei-u-A-Pair-of-Peacocks-Southeast-Fly-
 gutenberg_issued: '2016-06-08'
 gutenberg_type: Text
 identifiers:
