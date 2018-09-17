@@ -1,0 +1,27 @@
+_repo: u-Kong-que-dong-nan-fei-u-A-Pair-of-Peacocks-Southeast-Fly-_52275
+_version: 0.0.1
+alternative_title:
+- Kong que dong nan fei
+- A Pair of Peacocks Southeast Fly
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52275'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yue fu (Chinese poetry)'
+- !lcsh 'Chinese poetry -- Qin and Han dynasties, 221 B.C.-220 A.D.'
+- !lcc 'PL'
+- GITenberg
+title: 孔雀東南飛
+url: http://www.gutenberg.org/ebooks/52275
